@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Udacity Intel Nanodegree (Project 3)
+- 🔭 Working my way thru Paul Hudson's [SwiftUI By Example](https://www.hackingwithswift.com/quick-start/swiftui) 
 - 🌱 I’m currently learning ... Swift, Python
